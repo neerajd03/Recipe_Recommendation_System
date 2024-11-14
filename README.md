@@ -1,4 +1,4 @@
-# RECIPE_WIZARD🧙‍♂️🧙‍♀️🎩✨💫🔮📚📜🕯️🔥
+# RECIPE_WIZARD🧙‍♂️✨💫🔮📚📜🕯️🔥
 - An ingredient-based Recipe Recommendation System built with Python and PyQt5.
 - Users can input ingredients, and the app suggests recipes that match the given ingredients using a K-Nearest Neighbors (KNN) model for similarity-based recommendation.
 - It features a GUI with light and dark themes.
