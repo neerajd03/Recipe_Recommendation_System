@@ -12,7 +12,7 @@ Recipe_Recommendation_System blah blah blah
 ## Installation
 ### Clone the repository:
 ``` bash
-git clone https://github.com/yourusername/recipe-recommendation-system.git
+git clone https://github.com/neerajd03/recipe-recommendation-system.git
 ```
 Install dependencies:
 ``` bash
