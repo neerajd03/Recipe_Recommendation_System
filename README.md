@@ -39,4 +39,5 @@ python guinterface.py
 - Pandas: Data manipulation
 - Scikit-Learn: KNN model for recipe recommendation
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/neerajd03/Recipe_Recommendation_System/blob/main/LICENSE) file for details.
+
